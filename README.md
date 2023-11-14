@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a frontend web dev addict, I really enjoy bringing designs to life.
+When I'm not coding, you can find me exploring the latest in web design trends, experimenting with new tech stacks, or contributing to open-source projects. Let's connect and build something amazing together!
 
 
 ## 🌐 Socials:
